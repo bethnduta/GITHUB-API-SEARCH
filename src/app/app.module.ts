@@ -6,6 +6,7 @@ import { NavbarComponent } from './navbar/navbar.component';
 import { MainComponent } from './main/main.component';
 import { FormComponent } from './form/form.component';
 import { RepositoryComponent } from './repository/repository.component';
+import { DatePipe } from './date.pipe';
 
 @NgModule({
   declarations: [
@@ -13,7 +14,8 @@ import { RepositoryComponent } from './repository/repository.component';
     NavbarComponent,
     MainComponent,
     FormComponent,
-    RepositoryComponent
+    RepositoryComponent,
+    DatePipe
   ],
   imports: [
     BrowserModule
