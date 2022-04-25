@@ -1,5 +1,4 @@
 import { Component, OnInit } from '@angular/core';
-import { profile } from 'console';
 import { ProfileService } from '../profile.service';
 
 @Component({
@@ -10,14 +9,15 @@ import { ProfileService } from '../profile.service';
 export class ProfileComponent implements OnInit {
   profile: any[] = [];
   repos: any[] = [];
-  username: string;
+  user: any;
+  username!: string;
   constructor(private profileService: ProfileService) {
     this.profileService.getProfileInfo().subscribe((profile: any) => {
       console.log(profile);
       this.profile = profile;
     });
 
-    this.profileService.getProfileRepos().subscribe(repos => {
+    this.profileService.getProfileRepos().subscribe((repos: any[]) => {
       console.log(repos);
       this.repos = repos;
     });
