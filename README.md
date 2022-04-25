@@ -11,10 +11,10 @@ Click on the live link in the about section, which will direct you to the websit
 There are some few bugs on the project
 
 ## Technologies Used
-[HTML]
-[CSS]
-[BOOTSTRAP]
-[JAVASCRIPT & TYPESCRIPT]
+* [HTML]
+* [CSS]
+* [BOOTSTRAP]
+* [JAVASCRIPT & TYPESCRIPT]
 ## Contact Details
 For more information/clarification concerning the project, kindly reach me through my email bethnduta05@gmail.com
 
