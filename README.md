@@ -9,7 +9,7 @@ Click on the live link in the about section, which will direct you to the websit
 
 ## Known Bugs
 There are some few bugs on the project
-
+you can git clone https://github.com/bethnduta/GITHUB-API-SEARCH.git to help solve the problem
 ## Technologies Used
 * [HTML]
 * [CSS]
