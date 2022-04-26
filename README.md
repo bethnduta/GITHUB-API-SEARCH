@@ -16,7 +16,7 @@ you can git clone https://github.com/bethnduta/GITHUB-API-SEARCH.git to help sol
 * [BOOTSTRAP]
 * [JAVASCRIPT & TYPESCRIPT]
 ## Contact Details
-For more information/clarification concerning the project, kindly reach me through my email bethnduta05@gmail.com
+For more information/clarification concerning the project, kindly reach me through my email bethnduta05@gmail.com, linkedin or slack
 
 ## LICENSE
 Copyright (c) 2022
