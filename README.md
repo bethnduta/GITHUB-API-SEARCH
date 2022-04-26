@@ -2,7 +2,7 @@
 Beth Nduta Kiarie
 
 ## Description
-This is a website where users may enter a GitHub username into a form, submit it, and see names and descriptions of that person's public repositories. A user can also look for repositories
+This is a website where users may enter a GitHub username into a form, submit it, and see names and descriptions of that person's public repositories. A user can also look for repositories in the application
 
 ## Setup Installation Requirements
 Click on the live link in the about section, which will direct you to the website
